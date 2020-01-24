@@ -1,2 +1,2 @@
 # example-project
-demonstration for full stack bootcamp
+demonstration for full stack bootcamp - U of A
